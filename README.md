@@ -1,2 +1,2 @@
 # bootstrap_siteDeArquitetura
-Um site de arquitetur construido com bootstrap.
+Um site de arquitetura construido com bootstrap.
