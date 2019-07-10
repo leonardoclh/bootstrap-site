@@ -1,2 +1,3 @@
-# bootstrap_siteDeArquitetura
-Um site de arquitetura construido com bootstrap.
+# bootstrap-site
+
+Um site de arquitetura construido com bootstrap 3.
